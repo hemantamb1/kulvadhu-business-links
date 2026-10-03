@@ -10,16 +10,17 @@ const business = Object.freeze({
   address: "Tulsi Mall, Lalbagh Road, Burhanpur, Madhya Pradesh 450331",
   hours: "Monday-Sunday: 11:00 AM - 9:30 PM",
   phone: "+91 7987081425",
-  email: "kulvadsubydeepdarshit@gmail.com",
+  email: "kulvadhubydeepdarshit@gmail.com",
   links: {
     whatsapp: "https://wa.me/917987081425",
     phone: "tel:+917987081425",
-    email: "mailto:kulvadsubydeepdarshit@gmail.com",
+    email: "mailto:kulvadhubydeepdarshit@gmail.com",
     website: "https://www.deepdarshit.com/",
     instagram: "https://www.instagram.com/dd_kulvadhu/",
     youtube: "https://youtube.com/@kulvadhubydeepdarshit",
     facebook: "https://www.facebook.com/kulvadhu.by.dd",
-    maps: "https://maps.app.goo.gl/Cv644miA5Dp2PvNc6"
+    maps: "https://maps.app.goo.gl/Cv644miA5Dp2PvNc6",
+    review: "https://g.page/r/CX9-BqdWuwVGEBM/review"
   }
 });
 
