@@ -6,7 +6,7 @@
 const business = Object.freeze({
   name: "Kulvadhu By Deepdarshit",
   tagline: "Perfect blend of tradition and trend",
-  description: "A curated collection of handloom sarees from across India, bringing together traditional craftsmanship, timeless elegance and beautiful weaves under one roof in Burhanpur, Madhya Pradesh.",
+  description: "Designer and handloom sarees from across India, in Burhanpur, Madhya Pradesh.",
   address: "Tulsi Mall, Lalbagh Road, Burhanpur, Madhya Pradesh 450331",
   hours: "Monday-Sunday: 11:00 AM - 9:30 PM",
   phone: "+91 7987081425",

@@ -6,12 +6,15 @@ A lightweight, mobile-first landing page for Kulvadhu By Deepdarshit, a handloom
 
 ```text
 .
-|-- index.html
-|-- style.css
-|-- script.js
+|-- index.html          (markup and inlined CSS)
+|-- script.js           (business details and links)
 |-- README.md
 `-- assets/
-    `-- Kulvadhu_Deepdarshit_logo_transparent_HD.png
+    |-- Kulvadhu_Deepdarshit_logo_transparent_HD.png  (original, not loaded by the page)
+    |-- logo-144.png    (optimized logo shown on the page)
+    |-- favicon-64.png
+    |-- apple-touch-icon.png
+    `-- share.jpg       (1200x630 link-preview image)
 ```
 
 ## Update business details and links
@@ -20,7 +23,7 @@ All editable business information is grouped at the start of [script.js](script.
 
 ## Replace the logo
 
-Replace `assets/Kulvadhu_Deepdarshit_logo_transparent_HD.png` with the approved transparent PNG logo, keeping the same filename. The logo is rendered with `object-fit: contain`, so its proportions are preserved.
+The page loads the small `assets/logo-144.png`, not the 1.2 MB original. To change the logo, resize the new transparent PNG to 144x144 and replace `assets/logo-144.png` (also refresh `favicon-64.png`, `apple-touch-icon.png` and `share.jpg`). Keep the page small so it loads quickly on mobile data.
 
 ## Test locally
 
