@@ -10,10 +10,12 @@ const business = Object.freeze({
   address: "Tulsi Mall, Lalbagh Road, Burhanpur, Madhya Pradesh 450331",
   hours: "Monday-Sunday: 11:00 AM - 9:30 PM",
   phone: "+91 7987081425",
+  phone2: "+91 9755288119",
   email: "kulvadhubydeepdarshit@gmail.com",
   links: {
     whatsapp: "https://wa.me/917987081425",
     phone: "tel:+917987081425",
+    phone2: "tel:+919755288119",
     email: "mailto:kulvadhubydeepdarshit@gmail.com",
     website: "https://www.deepdarshit.com/",
     instagram: "https://www.instagram.com/dd_kulvadhu/",
