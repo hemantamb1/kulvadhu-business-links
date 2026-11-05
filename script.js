@@ -20,7 +20,7 @@ const business = Object.freeze({
     website: "https://www.deepdarshit.com/",
     instagram: "https://www.instagram.com/dd_kulvadhu/",
     youtube: "https://youtube.com/@kulvadhubydeepdarshit",
-    facebook: "https://www.facebook.com/kulvadhu.by.dd",
+    facebook: "https://www.facebook.com/profile.php?id=61585369633832",
     maps: "https://maps.app.goo.gl/Cv644miA5Dp2PvNc6",
     review: "https://g.page/r/CX9-BqdWuwVGEBM/review"
   }
